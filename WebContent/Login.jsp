@@ -20,7 +20,7 @@ if(ans==1)
 }
 else
 	{
-		out.print("invalid crediatials");
+		out.print("Incorrect credentials");
 	}
 
 %>
